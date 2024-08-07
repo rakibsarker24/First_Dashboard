@@ -18,7 +18,7 @@
                             <a class="nav-link" href="../all_user/all_user.php">All Users</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Upload Product</a>
+                            <a class="nav-link" href="../uplaad_product/uplaad_product.php">Upload Product</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#">Upload Catagory</a>
