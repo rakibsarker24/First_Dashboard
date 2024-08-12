@@ -27,7 +27,7 @@
                             <a class="nav-link" href="#">Upload Banner</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Upload Card</a>
+                            <a class="nav-link" href="../upload_card/upload_card.php">Upload Card</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#">Upload Product</a>
